@@ -21,5 +21,5 @@ When HP is equal to 0, player loses the game. It displays game over state:
 
 ![alt tag](https://raw.github.com/CandyKwok0715/MobileGame/master/screenshots/gameOver.png)
 
-###Innovative/interesting idea in the game
+##Innovative/interesting idea in the game
 In many mobile games, the data is only stored in mobile devices. If player loses or renew the mobile, the data of the game will only lose. To improvement this, it makes the data not only stored in mobile devices, it also stored on the server sides. Player just provide user name and password, it can get back the data of the game. Second, we add ranking into the game, it can make player to continue play the game because player want to become the top of the ranking.
